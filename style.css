@@ -1,7 +1,7 @@
-.cor-fundo{
-  background-color: #079992;
+.cor-fundo {
+  background-color: #e58e26;
 }
-.intro{
+.intro {
   color: white;
   text-align: center;
   margin-top: 7%;
@@ -10,4 +10,16 @@
   border-radius: 50%;
   max-width: 20%;
   max-height: 20%;
+}
+.lista-linha {
+  padding-left: 0;
+  list-style: none;
+}
+.lista-linha li {
+  display: inline-block;
+}
+.font-header {
+  font-family: Roboto;
+  /* font-family: 'Indie Flower', cursive; */
+  /* font-family: 'Pacifico', cursive; */
 }
